@@ -1,1 +1,1 @@
-# prince-favorites
+# Prince-favorites
