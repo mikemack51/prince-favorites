@@ -16,4 +16,4 @@ Compilation results...
 - Output Filename: C:\Users\mike\Documents\MIKES PROJECT.exe
 - Output Size: 128.7705078125 KiB
 - Compilation Time: 0.94s
-oading Raw Build Log.txt…]()
+oading POOR Build Log.txt…]()
